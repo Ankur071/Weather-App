@@ -1,4 +1,4 @@
-# Weather-App
+# WeatherNow
 
 • Integrated OpenWeatherMap API to fetch and display real-time weather data.
 
